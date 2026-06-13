@@ -1,0 +1,13 @@
+{
+  "name": "escie-backend",
+  "version": "2.6.0",
+  "description": "Real-time communication and global radio orchestration engine",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
